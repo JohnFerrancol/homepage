@@ -1,6 +1,6 @@
 # Homepage
 
-[Live Demo](#)<br/><br/>
+[Live Demo](https://johnferrancol.github.io/homepage/)<br/><br/>
 [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#)
 
 ## Overview
@@ -9,6 +9,8 @@ This is a project from [The Odin Project](https://theodinproject.com): [Project:
 
 ## Learning Points
 
+- Learnt to use Advanced CSS concepts like Transitions, Transitions and Keyframes
+- Learnt the important of Web Acessbility by using semantic HTML in webpages
 - Learnt to use media queries in CSS to help make web designs for various screen sizes
 - Learnt to make responsive images and ways to achieve natural responsiveness
 
