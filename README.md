@@ -58,4 +58,4 @@ npm run serve
 
 - [x] Understanding the design requirements for this project
 - [x] Re-create the design from the desktop design file
-- [ ] Make it tablet as well as mobile responsive
+- [x] Make the webpage responsive for desktop, tablets as well as for mobile devices
